@@ -1,0 +1,302 @@
+[
+  {
+    "name": "release-6-3",
+    "zipball_url": "https://api.github.com/repos/postgres/postgres/zipball/refs/tags/release-6-3",
+    "tarball_url": "https://api.github.com/repos/postgres/postgres/tarball/refs/tags/release-6-3",
+    "commit": {
+      "sha": "b1c7c31e07b9284843d85bbe71a327a1ca13be63",
+      "url": "https://api.github.com/repos/postgres/postgres/commits/b1c7c31e07b9284843d85bbe71a327a1ca13be63"
+    },
+    "node_id": "MDM6UmVmOTI3NDQyOnJlZnMvdGFncy9yZWxlYXNlLTYtMw=="
+  },
+  {
+    "name": "Release_2_0_0",
+    "zipball_url": "https://api.github.com/repos/postgres/postgres/zipball/refs/tags/Release_2_0_0",
+    "tarball_url": "https://api.github.com/repos/postgres/postgres/tarball/refs/tags/Release_2_0_0",
+    "commit": {
+      "sha": "1960a3b96573ad1ec73cd50255edde29cc80df88",
+      "url": "https://api.github.com/repos/postgres/postgres/commits/1960a3b96573ad1ec73cd50255edde29cc80df88"
+    },
+    "node_id": "MDM6UmVmOTI3NDQyOnJlZnMvdGFncy9SZWxlYXNlXzJfMF8w"
+  },
+  {
+    "name": "Release_2_0",
+    "zipball_url": "https://api.github.com/repos/postgres/postgres/zipball/refs/tags/Release_2_0",
+    "tarball_url": "https://api.github.com/repos/postgres/postgres/tarball/refs/tags/Release_2_0",
+    "commit": {
+      "sha": "bde34552a279a13a7980049455d6a79951cc5c5d",
+      "url": "https://api.github.com/repos/postgres/postgres/commits/bde34552a279a13a7980049455d6a79951cc5c5d"
+    },
+    "node_id": "MDM6UmVmOTI3NDQyOnJlZnMvdGFncy9SZWxlYXNlXzJfMA=="
+  },
+  {
+    "name": "Release_1_0_2",
+    "zipball_url": "https://api.github.com/repos/postgres/postgres/zipball/refs/tags/Release_1_0_2",
+    "tarball_url": "https://api.github.com/repos/postgres/postgres/tarball/refs/tags/Release_1_0_2",
+    "commit": {
+      "sha": "7d1402d0716ec3d48ff827d05276855e4234e42c",
+      "url": "https://api.github.com/repos/postgres/postgres/commits/7d1402d0716ec3d48ff827d05276855e4234e42c"
+    },
+    "node_id": "MDM6UmVmOTI3NDQyOnJlZnMvdGFncy9SZWxlYXNlXzFfMF8y"
+  },
+  {
+    "name": "REL_17_0",
+    "zipball_url": "https://api.github.com/repos/postgres/postgres/zipball/refs/tags/REL_17_0",
+    "tarball_url": "https://api.github.com/repos/postgres/postgres/tarball/refs/tags/REL_17_0",
+    "commit": {
+      "sha": "d7ec59a63d745ba74fba0e280bbf85dc6d1caa3e",
+      "url": "https://api.github.com/repos/postgres/postgres/commits/d7ec59a63d745ba74fba0e280bbf85dc6d1caa3e"
+    },
+    "node_id": "MDM6UmVmOTI3NDQyOnJlZnMvdGFncy9SRUxfMTdfMA=="
+  },
+  {
+    "name": "REL_17_RC1",
+    "zipball_url": "https://api.github.com/repos/postgres/postgres/zipball/refs/tags/REL_17_RC1",
+    "tarball_url": "https://api.github.com/repos/postgres/postgres/tarball/refs/tags/REL_17_RC1",
+    "commit": {
+      "sha": "94f1474e600fdbc6b325f69903eecfeb1f69fcbd",
+      "url": "https://api.github.com/repos/postgres/postgres/commits/94f1474e600fdbc6b325f69903eecfeb1f69fcbd"
+    },
+    "node_id": "MDM6UmVmOTI3NDQyOnJlZnMvdGFncy9SRUxfMTdfUkMx"
+  },
+  {
+    "name": "REL_17_BETA3",
+    "zipball_url": "https://api.github.com/repos/postgres/postgres/zipball/refs/tags/REL_17_BETA3",
+    "tarball_url": "https://api.github.com/repos/postgres/postgres/tarball/refs/tags/REL_17_BETA3",
+    "commit": {
+      "sha": "b18b3a8150dbb150124bd345e000d6dc92f3d6dd",
+      "url": "https://api.github.com/repos/postgres/postgres/commits/b18b3a8150dbb150124bd345e000d6dc92f3d6dd"
+    },
+    "node_id": "MDM6UmVmOTI3NDQyOnJlZnMvdGFncy9SRUxfMTdfQkVUQTM="
+  },
+  {
+    "name": "REL_17_BETA2",
+    "zipball_url": "https://api.github.com/repos/postgres/postgres/zipball/refs/tags/REL_17_BETA2",
+    "tarball_url": "https://api.github.com/repos/postgres/postgres/tarball/refs/tags/REL_17_BETA2",
+    "commit": {
+      "sha": "23c5a0e7d43bc925c6001538f04a458933a11fc1",
+      "url": "https://api.github.com/repos/postgres/postgres/commits/23c5a0e7d43bc925c6001538f04a458933a11fc1"
+    },
+    "node_id": "MDM6UmVmOTI3NDQyOnJlZnMvdGFncy9SRUxfMTdfQkVUQTI="
+  },
+  {
+    "name": "REL_17_BETA1",
+    "zipball_url": "https://api.github.com/repos/postgres/postgres/zipball/refs/tags/REL_17_BETA1",
+    "tarball_url": "https://api.github.com/repos/postgres/postgres/tarball/refs/tags/REL_17_BETA1",
+    "commit": {
+      "sha": "c37267162e889fe783786b9e28d1b65b82365a00",
+      "url": "https://api.github.com/repos/postgres/postgres/commits/c37267162e889fe783786b9e28d1b65b82365a00"
+    },
+    "node_id": "MDM6UmVmOTI3NDQyOnJlZnMvdGFncy9SRUxfMTdfQkVUQTE="
+  },
+  {
+    "name": "REL_16_4",
+    "zipball_url": "https://api.github.com/repos/postgres/postgres/zipball/refs/tags/REL_16_4",
+    "tarball_url": "https://api.github.com/repos/postgres/postgres/tarball/refs/tags/REL_16_4",
+    "commit": {
+      "sha": "2caa85f4aae689e6f6721d7363b4c66a2a6417d6",
+      "url": "https://api.github.com/repos/postgres/postgres/commits/2caa85f4aae689e6f6721d7363b4c66a2a6417d6"
+    },
+    "node_id": "MDM6UmVmOTI3NDQyOnJlZnMvdGFncy9SRUxfMTZfNA=="
+  },
+  {
+    "name": "REL_16_3",
+    "zipball_url": "https://api.github.com/repos/postgres/postgres/zipball/refs/tags/REL_16_3",
+    "tarball_url": "https://api.github.com/repos/postgres/postgres/tarball/refs/tags/REL_16_3",
+    "commit": {
+      "sha": "05ffe9398b758bbb8d30cc76e9bbc638dab2d477",
+      "url": "https://api.github.com/repos/postgres/postgres/commits/05ffe9398b758bbb8d30cc76e9bbc638dab2d477"
+    },
+    "node_id": "MDM6UmVmOTI3NDQyOnJlZnMvdGFncy9SRUxfMTZfMw=="
+  },
+  {
+    "name": "REL_16_2",
+    "zipball_url": "https://api.github.com/repos/postgres/postgres/zipball/refs/tags/REL_16_2",
+    "tarball_url": "https://api.github.com/repos/postgres/postgres/tarball/refs/tags/REL_16_2",
+    "commit": {
+      "sha": "b78fa8547d02fc72ace679fb4d5289dccdbfc781",
+      "url": "https://api.github.com/repos/postgres/postgres/commits/b78fa8547d02fc72ace679fb4d5289dccdbfc781"
+    },
+    "node_id": "MDM6UmVmOTI3NDQyOnJlZnMvdGFncy9SRUxfMTZfMg=="
+  },
+  {
+    "name": "REL_16_1",
+    "zipball_url": "https://api.github.com/repos/postgres/postgres/zipball/refs/tags/REL_16_1",
+    "tarball_url": "https://api.github.com/repos/postgres/postgres/tarball/refs/tags/REL_16_1",
+    "commit": {
+      "sha": "3edc6580c0e27fb8f13322efd255a88d20dda6c2",
+      "url": "https://api.github.com/repos/postgres/postgres/commits/3edc6580c0e27fb8f13322efd255a88d20dda6c2"
+    },
+    "node_id": "MDM6UmVmOTI3NDQyOnJlZnMvdGFncy9SRUxfMTZfMQ=="
+  },
+  {
+    "name": "REL_16_0",
+    "zipball_url": "https://api.github.com/repos/postgres/postgres/zipball/refs/tags/REL_16_0",
+    "tarball_url": "https://api.github.com/repos/postgres/postgres/tarball/refs/tags/REL_16_0",
+    "commit": {
+      "sha": "c372fbbd8e911f2412b80a8c39d7079366565d67",
+      "url": "https://api.github.com/repos/postgres/postgres/commits/c372fbbd8e911f2412b80a8c39d7079366565d67"
+    },
+    "node_id": "MDM6UmVmOTI3NDQyOnJlZnMvdGFncy9SRUxfMTZfMA=="
+  },
+  {
+    "name": "REL_16_RC1",
+    "zipball_url": "https://api.github.com/repos/postgres/postgres/zipball/refs/tags/REL_16_RC1",
+    "tarball_url": "https://api.github.com/repos/postgres/postgres/tarball/refs/tags/REL_16_RC1",
+    "commit": {
+      "sha": "d94dadcc5020f6746203896dba5a9627872ba2ee",
+      "url": "https://api.github.com/repos/postgres/postgres/commits/d94dadcc5020f6746203896dba5a9627872ba2ee"
+    },
+    "node_id": "MDM6UmVmOTI3NDQyOnJlZnMvdGFncy9SRUxfMTZfUkMx"
+  },
+  {
+    "name": "REL_16_BETA3",
+    "zipball_url": "https://api.github.com/repos/postgres/postgres/zipball/refs/tags/REL_16_BETA3",
+    "tarball_url": "https://api.github.com/repos/postgres/postgres/tarball/refs/tags/REL_16_BETA3",
+    "commit": {
+      "sha": "0dd5545378d79bc0080dd34824f428458cf7448d",
+      "url": "https://api.github.com/repos/postgres/postgres/commits/0dd5545378d79bc0080dd34824f428458cf7448d"
+    },
+    "node_id": "MDM6UmVmOTI3NDQyOnJlZnMvdGFncy9SRUxfMTZfQkVUQTM="
+  },
+  {
+    "name": "REL_16_BETA2",
+    "zipball_url": "https://api.github.com/repos/postgres/postgres/zipball/refs/tags/REL_16_BETA2",
+    "tarball_url": "https://api.github.com/repos/postgres/postgres/tarball/refs/tags/REL_16_BETA2",
+    "commit": {
+      "sha": "19508f4763b6e55baae788af000ee47e74d24370",
+      "url": "https://api.github.com/repos/postgres/postgres/commits/19508f4763b6e55baae788af000ee47e74d24370"
+    },
+    "node_id": "MDM6UmVmOTI3NDQyOnJlZnMvdGFncy9SRUxfMTZfQkVUQTI="
+  },
+  {
+    "name": "REL_16_BETA1",
+    "zipball_url": "https://api.github.com/repos/postgres/postgres/zipball/refs/tags/REL_16_BETA1",
+    "tarball_url": "https://api.github.com/repos/postgres/postgres/tarball/refs/tags/REL_16_BETA1",
+    "commit": {
+      "sha": "e0b82fc8e8317881ecdd1e28bece55ea0db952da",
+      "url": "https://api.github.com/repos/postgres/postgres/commits/e0b82fc8e8317881ecdd1e28bece55ea0db952da"
+    },
+    "node_id": "MDM6UmVmOTI3NDQyOnJlZnMvdGFncy9SRUxfMTZfQkVUQTE="
+  },
+  {
+    "name": "REL_15_8",
+    "zipball_url": "https://api.github.com/repos/postgres/postgres/zipball/refs/tags/REL_15_8",
+    "tarball_url": "https://api.github.com/repos/postgres/postgres/tarball/refs/tags/REL_15_8",
+    "commit": {
+      "sha": "3cc5e51ab4507b33acc82684b7d79ac43b8a6b5d",
+      "url": "https://api.github.com/repos/postgres/postgres/commits/3cc5e51ab4507b33acc82684b7d79ac43b8a6b5d"
+    },
+    "node_id": "MDM6UmVmOTI3NDQyOnJlZnMvdGFncy9SRUxfMTVfOA=="
+  },
+  {
+    "name": "REL_15_7",
+    "zipball_url": "https://api.github.com/repos/postgres/postgres/zipball/refs/tags/REL_15_7",
+    "tarball_url": "https://api.github.com/repos/postgres/postgres/tarball/refs/tags/REL_15_7",
+    "commit": {
+      "sha": "4a53584cf2d676e685d899d01cde18c075fbeca7",
+      "url": "https://api.github.com/repos/postgres/postgres/commits/4a53584cf2d676e685d899d01cde18c075fbeca7"
+    },
+    "node_id": "MDM6UmVmOTI3NDQyOnJlZnMvdGFncy9SRUxfMTVfNw=="
+  },
+  {
+    "name": "REL_15_6",
+    "zipball_url": "https://api.github.com/repos/postgres/postgres/zipball/refs/tags/REL_15_6",
+    "tarball_url": "https://api.github.com/repos/postgres/postgres/tarball/refs/tags/REL_15_6",
+    "commit": {
+      "sha": "496a1dc44bf1261053da9b3f7e430769754298b4",
+      "url": "https://api.github.com/repos/postgres/postgres/commits/496a1dc44bf1261053da9b3f7e430769754298b4"
+    },
+    "node_id": "MDM6UmVmOTI3NDQyOnJlZnMvdGFncy9SRUxfMTVfNg=="
+  },
+  {
+    "name": "REL_15_5",
+    "zipball_url": "https://api.github.com/repos/postgres/postgres/zipball/refs/tags/REL_15_5",
+    "tarball_url": "https://api.github.com/repos/postgres/postgres/tarball/refs/tags/REL_15_5",
+    "commit": {
+      "sha": "1e7f81e90741795d547c0290b4a82d84d518faac",
+      "url": "https://api.github.com/repos/postgres/postgres/commits/1e7f81e90741795d547c0290b4a82d84d518faac"
+    },
+    "node_id": "MDM6UmVmOTI3NDQyOnJlZnMvdGFncy9SRUxfMTVfNQ=="
+  },
+  {
+    "name": "REL_15_4",
+    "zipball_url": "https://api.github.com/repos/postgres/postgres/zipball/refs/tags/REL_15_4",
+    "tarball_url": "https://api.github.com/repos/postgres/postgres/tarball/refs/tags/REL_15_4",
+    "commit": {
+      "sha": "83ed1f71c88ae948a5b6ec6d2a4802cc54470102",
+      "url": "https://api.github.com/repos/postgres/postgres/commits/83ed1f71c88ae948a5b6ec6d2a4802cc54470102"
+    },
+    "node_id": "MDM6UmVmOTI3NDQyOnJlZnMvdGFncy9SRUxfMTVfNA=="
+  },
+  {
+    "name": "REL_15_3",
+    "zipball_url": "https://api.github.com/repos/postgres/postgres/zipball/refs/tags/REL_15_3",
+    "tarball_url": "https://api.github.com/repos/postgres/postgres/tarball/refs/tags/REL_15_3",
+    "commit": {
+      "sha": "8382864eb5c9f9ebe962ac20b3392be5ae304d23",
+      "url": "https://api.github.com/repos/postgres/postgres/commits/8382864eb5c9f9ebe962ac20b3392be5ae304d23"
+    },
+    "node_id": "MDM6UmVmOTI3NDQyOnJlZnMvdGFncy9SRUxfMTVfMw=="
+  },
+  {
+    "name": "REL_15_2",
+    "zipball_url": "https://api.github.com/repos/postgres/postgres/zipball/refs/tags/REL_15_2",
+    "tarball_url": "https://api.github.com/repos/postgres/postgres/tarball/refs/tags/REL_15_2",
+    "commit": {
+      "sha": "78ec02d612a9b69039ec2610740f738968fe144d",
+      "url": "https://api.github.com/repos/postgres/postgres/commits/78ec02d612a9b69039ec2610740f738968fe144d"
+    },
+    "node_id": "MDM6UmVmOTI3NDQyOnJlZnMvdGFncy9SRUxfMTVfMg=="
+  },
+  {
+    "name": "REL_15_1",
+    "zipball_url": "https://api.github.com/repos/postgres/postgres/zipball/refs/tags/REL_15_1",
+    "tarball_url": "https://api.github.com/repos/postgres/postgres/tarball/refs/tags/REL_15_1",
+    "commit": {
+      "sha": "c5dc80c1bc216f0e21a2f79f5e0415c2d4cfb35d",
+      "url": "https://api.github.com/repos/postgres/postgres/commits/c5dc80c1bc216f0e21a2f79f5e0415c2d4cfb35d"
+    },
+    "node_id": "MDM6UmVmOTI3NDQyOnJlZnMvdGFncy9SRUxfMTVfMQ=="
+  },
+  {
+    "name": "REL_15_0",
+    "zipball_url": "https://api.github.com/repos/postgres/postgres/zipball/refs/tags/REL_15_0",
+    "tarball_url": "https://api.github.com/repos/postgres/postgres/tarball/refs/tags/REL_15_0",
+    "commit": {
+      "sha": "2a7ce2e2ce474504a707ec03e128fde66cfb8b48",
+      "url": "https://api.github.com/repos/postgres/postgres/commits/2a7ce2e2ce474504a707ec03e128fde66cfb8b48"
+    },
+    "node_id": "MDM6UmVmOTI3NDQyOnJlZnMvdGFncy9SRUxfMTVfMA=="
+  },
+  {
+    "name": "REL_15_RC2",
+    "zipball_url": "https://api.github.com/repos/postgres/postgres/zipball/refs/tags/REL_15_RC2",
+    "tarball_url": "https://api.github.com/repos/postgres/postgres/tarball/refs/tags/REL_15_RC2",
+    "commit": {
+      "sha": "2a40d040c924b1707cd03a9c66c80fcc4795c2d1",
+      "url": "https://api.github.com/repos/postgres/postgres/commits/2a40d040c924b1707cd03a9c66c80fcc4795c2d1"
+    },
+    "node_id": "MDM6UmVmOTI3NDQyOnJlZnMvdGFncy9SRUxfMTVfUkMy"
+  },
+  {
+    "name": "REL_15_RC1",
+    "zipball_url": "https://api.github.com/repos/postgres/postgres/zipball/refs/tags/REL_15_RC1",
+    "tarball_url": "https://api.github.com/repos/postgres/postgres/tarball/refs/tags/REL_15_RC1",
+    "commit": {
+      "sha": "6abbd212b2828717fb3b10ed2925edf8f212e38d",
+      "url": "https://api.github.com/repos/postgres/postgres/commits/6abbd212b2828717fb3b10ed2925edf8f212e38d"
+    },
+    "node_id": "MDM6UmVmOTI3NDQyOnJlZnMvdGFncy9SRUxfMTVfUkMx"
+  },
+  {
+    "name": "REL_15_BETA4",
+    "zipball_url": "https://api.github.com/repos/postgres/postgres/zipball/refs/tags/REL_15_BETA4",
+    "tarball_url": "https://api.github.com/repos/postgres/postgres/tarball/refs/tags/REL_15_BETA4",
+    "commit": {
+      "sha": "6e55ea79faa56db85a2b6c5bf94cee8acf8bfdb8",
+      "url": "https://api.github.com/repos/postgres/postgres/commits/6e55ea79faa56db85a2b6c5bf94cee8acf8bfdb8"
+    },
+    "node_id": "MDM6UmVmOTI3NDQyOnJlZnMvdGFncy9SRUxfMTVfQkVUQTQ="
+  }
+]
